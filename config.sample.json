@@ -1,0 +1,9 @@
+{
+	"server_name": "MyServer",
+	"pastebin": {
+		"dev_key": "YOUR PASTEBIN DEV KEY",
+		"user": "YOUR PASTEBIN USERNAME",
+		"pass": "YOUR PASTEBIN PASSWORD"
+	},
+	"check_every_seconds": 60
+}
